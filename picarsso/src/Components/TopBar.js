@@ -12,6 +12,10 @@ const TopBar = () => {
       window.location = "https://platak1sm.itch.io/aar25t2";
     }
 
+    function NavigateToPicARsso(){
+      window.location = "https://kornimate.github.io/PicARsso/";
+    }
+
     return (
     <Box sx={{ width: "100%", flexGrow: 1 }}>
       <AppBar position="static">
@@ -25,7 +29,13 @@ const TopBar = () => {
           >
             <img src={logo} alt="game-jam-logo" className="gameJamLogo" />
           </IconButton>
-          <img src={textLogo} alt="picarsso-logo" className="picarssoLogo" />
+          <IconButton
+            aria-label="picarsso-logo"
+            onClick={NavigateToPicARsso}
+            color="inherit"
+          >
+            <img src={textLogo} alt="picarsso-logo" className="picarssoLogo" />
+          </IconButton>
         </Toolbar>
       </AppBar>
     </Box>
