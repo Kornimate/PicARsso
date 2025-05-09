@@ -20,7 +20,7 @@ const Links = () => {
     return(
         <>
             <Typography variant='h4' component="div" gutterBottom sx={{marginTop: 6, padding: 2, borderRadius: 4, bgcolor: "#F1C40F", flexGrow:0}} >Links</Typography>
-            <Box sx={{ width: "50%", mx: "auto", mt: 4, marginBottom: 10, }}>
+            <Box sx={{ width: "90%", mx: "auto", mt: 4, marginBottom: 10, }}>
                 <Button variant="contained" endIcon={<EditDocumentIcon />} onClick={TakeSurvey} sx={{bgcolor: "#E74C3C", marginBottom: 2, width: "80%"}}>Take the After-Game Survey</Button>
                 <br />
                 <Button variant="contained" endIcon={<VideogameAssetIcon />} onClick={VisitItchIo} sx={{bgcolor: "#E74C3C", marginBottom: 2, width: "80%"}}>Visit Game Itch.io Page</Button>

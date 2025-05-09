@@ -37,7 +37,7 @@ const Images = () => {
   return (
     <>
     <Typography variant='h4' component="div" gutterBottom sx={{marginTop: 4, padding: 2, borderRadius: 4, bgcolor: "#F1C40F", flexGrow:0}}>Images</Typography>
-        <Box sx={{ width: "50%", mx: "auto", mt: 4, borderRadius: "40px"}}>
+        <Box sx={{ width: "90%", mx: "auto", mt: 4, borderRadius: "40px"}}>
         <Slider {...settings}>
             {images.map((item, index) => (
                 <Card key={index} sx={{ p: 1, backgroundColor: "#9B59B6"}}>

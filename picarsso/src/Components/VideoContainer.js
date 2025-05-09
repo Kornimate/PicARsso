@@ -5,7 +5,7 @@ const VideoContainer = () => {
     return(
         <>
             <Typography variant='h4' component="div" gutterBottom sx={{marginTop: 2, padding: 2, borderRadius: 4, bgcolor: "#F1C40F", flexGrow:0}} >Gameplay Video</Typography>
-            <Box sx={{ width: "50%", mx: "auto", mt: 4, padding: 2, backgroundColor: "#9B59B6", borderRadius: 5 }}>
+            <Box sx={{ width: "90%", mx: "auto", mt: 4, padding: 2, backgroundColor: "#9B59B6", borderRadius: 5 }}>
                 <video
                 src={video}
                 width="100%"
