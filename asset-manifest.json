@@ -1,17 +1,31 @@
 {
   "files": {
-    "main.css": "/PicARsso/static/css/main.30fffc1c.css",
-    "main.js": "/PicARsso/static/js/main.9afca3c2.js",
+    "main.css": "/PicARsso/static/css/main.3db53c95.css",
+    "main.js": "/PicARsso/static/js/main.f0208954.js",
     "static/js/453.cac933f0.chunk.js": "/PicARsso/static/js/453.cac933f0.chunk.js",
+    "static/media/DemoAAR25.mp4": "/PicARsso/static/media/DemoAAR25.9f4d092be3c08372afed.mp4",
+    "static/media/p2.jpg": "/PicARsso/static/media/p2.c8a1b5e584564f2dd16d.jpg",
+    "static/media/p1.jpg": "/PicARsso/static/media/p1.da5e0fcab321128cdfb2.jpg",
+    "static/media/p3.jpg": "/PicARsso/static/media/p3.cf05ee332433a4e3f577.jpg",
+    "static/media/p5.jpg": "/PicARsso/static/media/p5.0f5fd86bb352012d4696.jpg",
+    "static/media/p8.jpg": "/PicARsso/static/media/p8.f9809cf5aef1e02eb1ea.jpg",
+    "static/media/p7.jpg": "/PicARsso/static/media/p7.880293004ccd13d7d91f.jpg",
+    "static/media/p6.jpg": "/PicARsso/static/media/p6.52644420e9a1113e58b9.jpg",
+    "static/media/p4.jpg": "/PicARsso/static/media/p4.653cdaaa614fd0f12557.jpg",
+    "static/media/p9.jpg": "/PicARsso/static/media/p9.b68b3178e7c52b765c23.jpg",
     "static/media/picarsso-logo.png": "/PicARsso/static/media/picarsso-logo.799409d5a8169ab931ce.png",
     "static/media/game-jam-logo.png": "/PicARsso/static/media/game-jam-logo.e0c3ce80e456e947c295.png",
+    "static/media/slick.svg": "/PicARsso/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/PicARsso/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/PicARsso/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/PicARsso/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/PicARsso/index.html",
-    "main.30fffc1c.css.map": "/PicARsso/static/css/main.30fffc1c.css.map",
-    "main.9afca3c2.js.map": "/PicARsso/static/js/main.9afca3c2.js.map",
+    "main.3db53c95.css.map": "/PicARsso/static/css/main.3db53c95.css.map",
+    "main.f0208954.js.map": "/PicARsso/static/js/main.f0208954.js.map",
     "453.cac933f0.chunk.js.map": "/PicARsso/static/js/453.cac933f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30fffc1c.css",
-    "static/js/main.9afca3c2.js"
+    "static/css/main.3db53c95.css",
+    "static/js/main.f0208954.js"
   ]
 }
